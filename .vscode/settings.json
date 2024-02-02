@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "*.c": "c",
-        "opengl.h": "c",
-        "game.h": "c",
-        "cglm.h": "c",
-        "glad.h": "c"
-    }
-}
