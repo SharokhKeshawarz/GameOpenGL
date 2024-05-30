@@ -8,4 +8,5 @@ Im just here to learn how grphics programming works, just want to give it a try.
 - GLM Setup
 - GLAD Setup
 - STB_IMAGE Setup
+
 It was really hard to setup this repos it took me 3 hours. Tried to make the repository as clean as possible.
