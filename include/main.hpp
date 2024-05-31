@@ -20,4 +20,17 @@
 
 #include "stb_image.h"
 
+#include "shader.hpp"
+#include "VAO.hpp"
+#include "VBO.hpp"
+#include "EBO.hpp"
+
+#define WIDTH 800
+#define HEIGHT 600
+
+typedef int i32;
+typedef long i64;
+typedef float f32;
+typedef double f64;
+
 #endif // MAIN_HPP

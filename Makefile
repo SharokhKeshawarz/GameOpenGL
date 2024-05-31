@@ -13,7 +13,7 @@ INCLUDE_DIR = include
 # Files
 SRC_FILES = $(wildcard $(SRC_DIR)/*.cpp)
 GLAD_FILE = $(GLAD_DIR)/glad.c
-STB_IMAGE_FILE = $(STB_IMAGE_DIR)/stb_image.c
+STB_IMAGE_FILE = $(STB_IMAGE_DIR)/stb_image.cpp
 FILES = $(GLAD_FILE) $(STB_IMAGE_FILE) $(SRC_FILES) 
 
 # Libraries
