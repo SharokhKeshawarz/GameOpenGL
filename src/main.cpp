@@ -45,7 +45,7 @@ int main()
 
 		shaderProgram.Activate();
 		VAO1.Bind();
-		glDrawElements(GL_TRIANGLES, 9, GL_UNSIGNED_INT, 0);
+        glDrawArrays(GL_TRIANGLES, 0, 3);
 
 		glfwSwapBuffers(window);
 		glfwPollEvents();
