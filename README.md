@@ -10,3 +10,9 @@ Im just here to learn how grphics programming works, just want to give it a try.
 - STB_IMAGE Setup
 
 It was really hard to setup this repos it took me 3 hours. Tried to make the repository as clean as possible.
+
+## Day 2
+- Learned basic OpenGL
+- Learned how to draw triangles
+- Learned VAOs, VBOs, EBOs
+- Learned Shaders
