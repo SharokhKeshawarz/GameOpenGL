@@ -14,6 +14,7 @@ std::string get_file_contents(const char* filename)
 	}
 	throw(errno);
 }
+
 Shader::Shader(const char *vertexFile, const char *fragmentFile)
 {
     std::string vertexCode = get_file_contents(vertexFile);
