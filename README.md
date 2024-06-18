@@ -22,3 +22,8 @@ It was really hard to setup this repos it took me 3 hours. Tried to make the rep
 - 3D environnement
 - Movement
 - Textures
+
+## DAY 4
+- Lighting
+- Ambiant
+- Specular
